@@ -1,0 +1,11 @@
+Package: SampleUL
+Version: 0.0.1
+License: GNU GPLv3
+Title: SampleUL
+Description: A sample project for universal life modeling using Rgogo Framework
+Author: Edward Kuo
+Maintainer: Edward Kuo <ekuo70@gmail.com>
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.0), Rgogo(>= 22.1.1)
+Imports: Rgogo
